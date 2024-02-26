@@ -20,7 +20,7 @@ EVENT	|	767
 
 ## Citation
 ```
-@article{PURNOMOWP2024111558,
+@article{PURNOMOWP2022,
 	title = {PFSA-ID: an annotated Indonesian corpus and baseline model of public figures statements attributions},
 	journal = {Global Knowledge, Memory and Communication},
 	volume = {ahead-of-print},
