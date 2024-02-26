@@ -18,7 +18,8 @@ EVENT	|	767
 
 
 
-## Citation
+## How to Cite
+If you extend or use this work, please cite the paper where it was introduced:
 ```
 @article{PURNOMOWP2022,
 	title = {PFSA-ID: an annotated Indonesian corpus and baseline model of public figures statements attributions},

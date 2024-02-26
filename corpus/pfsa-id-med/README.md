@@ -17,7 +17,8 @@ LOCATION	|	776
 EVENT	|	1485
 
 
-## Citation
+## How to Cite
+If you extend or use this work, please cite the paper where it was introduced:
 ```
 @article{PURNOMOWP2024111558,
 	title = {Extraction and attribution of public figures statements for journalism in Indonesia using deep learning},
