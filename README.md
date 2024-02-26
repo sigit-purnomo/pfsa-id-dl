@@ -2,6 +2,12 @@
 
 This is the official repository for the [Extraction and attribution of public figures statements for journalism in Indonesia using deep learning](https://doi.org/10.1016/j.knosys.2024.111558) paper published in Knowledge-Based System journal.
 
+## Highlight from this research
+- Public figures' statements in news articles are valuable.
+- Named entity recognition could be used to extract and attribute the public figure's statements.
+- RNN and transformer-based extraction models performed well with the highest F1 score 81.34 % and 81.01 %.
+- The size of the corpus affects the performance of the model.
+
 ## Overview of this repository
 This repository is structured as follows:
 - `corpus/` contains the corpus used in the paper.
