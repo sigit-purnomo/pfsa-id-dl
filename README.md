@@ -2,6 +2,11 @@
 
 This is the official repository for the [Extraction and attribution of public figures statements for journalism in Indonesia using deep learning paper](https://doi.org/10.1016/j.knosys.2024.111558).
 
+## Overview of this repository
+This repository is structured as follows:
+- `corpus/` contains the corpus used in the paper.
+- `model/` contains the best model for each of the deep learning architecture.
+
 ## How to Cite
 If you extend or use this work, please cite the paper where it was introduced:
 ```
