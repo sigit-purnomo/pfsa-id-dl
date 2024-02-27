@@ -1,6 +1,8 @@
 # Extraction and attribution of public figures statements for journalism in Indonesia using deep learning
 
 This is the official repository for the [Extraction and attribution of public figures statements for journalism in Indonesia using deep learning](https://doi.org/10.1016/j.knosys.2024.111558) paper published in Knowledge-Based System journal.
+
+
 ![RNN-based Model Architecture.](https://ars.els-cdn.com/content/image/1-s2.0-S095070512400193X-gr2.jpg)
 
 ## Highlight from this research
