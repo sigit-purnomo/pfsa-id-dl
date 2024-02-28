@@ -18,6 +18,12 @@ News articles are usually written by journalists based on statements taken from 
 This repository is structured as follows:
 - `corpus/` contains the corpus used in the paper.
 - `model/` contains the best model for each of the deep learning architecture.
+- `testing-result/` contains the result of the model testing using data sample.
+- `corpus.py` is the script used to access the corpus data.
+- `models.py` is the script used to define the model architecture.
+- `tester.py` is the script used to test the model using some data samples.
+- `main.py` is the main script used to test the model using some data samples.
+- `requirements.txt` is the file contains the python requirements to run the script.
 
 ## 🚀 Getting Started
 
