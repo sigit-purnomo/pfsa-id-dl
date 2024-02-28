@@ -5,17 +5,26 @@ This is the official repository for the [Extraction and attribution of public fi
 
 ![RNN-based Model Architecture.](https://ars.els-cdn.com/content/image/1-s2.0-S095070512400193X-gr2.jpg)
 
-## Highlight from this research
+## 🌟 Highlight from this research
 - Public figures' statements in news articles are valuable.
 - Named entity recognition could be used to extract and attribute the public figure's statements.
 - RNN and transformer-based extraction models performed well with the highest F1 score 81.34 % and 81.01 %.
 - The size of the corpus affects the performance of the model.
 
-## Overview of this repository
+## 🛠️ Overview of this repository
 This repository is structured as follows:
 - `corpus/` contains the corpus used in the paper.
 - `model/` contains the best model for each of the deep learning architecture.
 
+## 🚀 Getting Started
+
+1. Run the python main file
+   ```sh
+   python main.py
+    ```
+2. Check the testing result in the testing-result folder
+
+	
 ## How to Cite
 If you extend or use this work, please cite the paper where it was introduced:
 ```
