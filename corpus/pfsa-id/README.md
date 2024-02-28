@@ -18,7 +18,7 @@ EVENT	|	767
 
 
 
-## How to Cite
+## :books: How to Cite
 If you extend or use this work, please cite the paper where it was introduced:
 ```
 @article{PURNOMOWP2022,

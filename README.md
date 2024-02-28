@@ -25,7 +25,7 @@ This repository is structured as follows:
 2. Check the testing result in the testing-result folder
 
 	
-## How to Cite
+## :books: How to Cite
 If you extend or use this work, please cite the paper where it was introduced:
 ```
 @article{PURNOMOWP2024111558,
