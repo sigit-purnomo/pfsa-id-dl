@@ -27,8 +27,6 @@ This repository is structured as follows:
 
 ## :pray: Acknowledgments 
 
-Acknowledgments
-
 The authors are grateful to **[Universitas Atma Jaya Yogyakarta](https://www.uajy.ac.id)** and the **[Center for Advanced Computing Technology (C-ACT), Fakulti Teknologi Maklumat Dan Komunikasi, Universiti Teknikal Malaysia Melaka](https://ftmk.utem.edu.my)** for supporting this publication.
 
 	
