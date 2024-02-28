@@ -19,6 +19,7 @@ This repository is structured as follows:
 ## 🚀 Getting Started
 
 1. Run the python main file
+   Notes: Please check the path of the corpus, model, and testing result output.
    ```sh
    python main.py
     ```
