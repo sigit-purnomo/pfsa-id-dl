@@ -25,7 +25,7 @@ This repository is structured as follows:
     ```
 2. Check the testing result in the testing-result folder
 
-## Acknowledgments :pray:
+## :pray: Acknowledgments 
 
 Acknowledgments
 
