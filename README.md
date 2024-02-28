@@ -25,6 +25,12 @@ This repository is structured as follows:
     ```
 2. Check the testing result in the testing-result folder
 
+## Acknowledgments :pray:
+
+Acknowledgments
+
+The authors are grateful to **[Universitas Atma Jaya Yogyakarta](https://www.uajy.ac.id)** and the **[Center for Advanced Computing Technology (C-ACT), Fakulti Teknologi Maklumat Dan Komunikasi, Universiti Teknikal Malaysia Melaka](https://ftmk.utem.edu.my)** for supporting this publication.
+
 	
 ## :books: How to Cite
 If you extend or use this work, please cite the paper where it was introduced:
