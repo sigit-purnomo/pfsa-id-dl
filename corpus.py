@@ -1,3 +1,5 @@
+# This script is refer to nerindo Github Repository - https://github.com/yoseflaw/nerindo/tree/master 
+
 import gensim
 import torch
 from torchtext.data import Field, NestedField, BucketIterator

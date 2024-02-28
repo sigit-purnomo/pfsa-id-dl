@@ -1,3 +1,5 @@
+# This script is refer to nerindo Github Repository - https://github.com/yoseflaw/nerindo/tree/master 
+
 import torch
 from torch.optim import Adam
 from corpus import Corpus
